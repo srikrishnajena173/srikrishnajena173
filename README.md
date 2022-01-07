@@ -10,7 +10,7 @@
       to enhance their scoring. He is passionate about helping modern organisations by designing and implementing data science models to enhance their
       business predictability, interpret complex data sets, and facilitate business managers in their decision-making process.  
 
-      As a QA Automation Engineering, While working with professional services organisations, he has worked as a QA automation engineer, 
+ - 👀 As a QA Automation Engineering, While working with professional services organisations, he has worked as a QA automation engineer, 
       designed a hybrid automation framework using Selenium APIs and Java utilities for financial services clients.
       He is a certified QA engineer, who is passionate about delivering an automation approach and framework to improve the ROI of the testing investment.
 
@@ -22,9 +22,7 @@
 - 💞️ Currently, I am looking for an opportunity to build my career in Machine learning and Data Science.
 
 - 📫 How to reach me :- 
-  +44 7587973858
-  jena.srikrishna173@gmail.com
-  https://www.linkedin.com/in/srikrishna-jena-5a7564ba/
+  +44 7587973858, jena.srikrishna173@gmail.com, https://www.linkedin.com/in/srikrishna-jena-5a7564ba/
 
 
 <!---
