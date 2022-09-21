@@ -1,4 +1,4 @@
-- 👋 Hi, Sri is a Data Science and QA Engineer with over 7 years of experience with top tier technology consulting firms like
+- 👋 Hi, Sri is a Data Science and QA Engineer with over 9 years of experience with top tier technology consulting firms like
      Accenture, CGI, Sapient and HCL. He has been a software QA automation engineer, DevOps engineer and is now upskilling Data Science 
      technologies by pursuing Master’s in Data Science at Manchester Metropolitan University. He is also working on building up solid knowledge
      base across principles of data science, advanced machine learning, deep learning, high-performance computing and big data, algorithms, and data structure. 
